@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/Dani-Jacob">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,mysql,postman,docker,webstorm,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,postgres,mysql,postman,docker,webstorm,vscode&perline=6" />
   </a>   
 
 ---
